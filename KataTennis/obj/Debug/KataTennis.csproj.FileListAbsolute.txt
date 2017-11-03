@@ -1,0 +1,13 @@
+E:\git\KataTennis\KataTennis\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\git\KataTennis\KataTennis\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\git\KataTennis\KataTennis\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\git\KataTennis\KataTennis\bin\Debug\KataTennis.dll
+E:\git\KataTennis\KataTennis\bin\Debug\KataTennis.pdb
+E:\git\KataTennis\KataTennis\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\git\KataTennis\KataTennis\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\git\KataTennis\KataTennis\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\git\KataTennis\KataTennis\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\git\KataTennis\KataTennis\obj\Debug\KataTennis.csprojResolveAssemblyReference.cache
+E:\git\KataTennis\KataTennis\obj\Debug\KataTennis.csproj.CoreCompileInputs.cache
+E:\git\KataTennis\KataTennis\obj\Debug\KataTennis.dll
+E:\git\KataTennis\KataTennis\obj\Debug\KataTennis.pdb
